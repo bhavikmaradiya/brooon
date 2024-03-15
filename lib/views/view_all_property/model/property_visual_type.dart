@@ -1,0 +1,4 @@
+enum PropertyVisualType {
+  list,
+  map,
+}

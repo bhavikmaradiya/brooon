@@ -1,0 +1,1205 @@
+{
+  "appName": "Brooon",
+  "appTagline": "Deal smart. Deal fast.",
+  "walkThroughSkip": "Skip",
+  "walkThroughNext": "Next",
+  "walkThroughGetStarted": "Get Started",
+  "walkThroughOneItem1": "GET.",
+  "walkThroughOneItem2": "Get your properties and buyers added.",
+  "walkThroughTwoItem1": "SET.",
+  "walkThroughTwoItem2": "Set your searches smartly to get the right match.",
+  "walkThroughThreeItem1": "GO.",
+  "walkThroughThreeItem2": "Go and crack the deals!",
+  "welcomes": "Welcomes ",
+  "you": "You!",
+  "weWillSendPassword": "Revolutionize property handling",
+  "mobileNumber": "Mobile Number*",
+  "mobileNumberHint": "Enter number",
+  "getOtp": "Get OTP",
+  "otp": "OTP ",
+  "verification": "Verification",
+  "enterOtpSendTo": "OTP shared on",
+  "invalidOtp": "OTP is invalid",
+  "invalidMobile": "Please enter valid number",
+  "didNotReceivedOtp": "Didn't received OTP?",
+  "resendOtp": "Resend OTP",
+  "successfully": "Successfully",
+  "menuHome": "Home",
+  "menuSearch": "Search",
+  "menuWishList": "Wishlist",
+  "menuAccount": "Account",
+  "yourLocation": "Location",
+  "beds": "Beds",
+  "washroom": "Washroom",
+  "nearByLocation": "Nearby your location",
+  "viewAll": "View All",
+  "verified": "Verified!",
+  "rupees": "Rs.",
+  "titleNotification": "Notifications",
+  "notificationHeaderToday": "Today,",
+  "notificationHeaderYesterday": "Yesterday,",
+  "filter": "Filter Properties",
+  "filterSearch": "Search",
+  "filterPrice": "Price",
+  "filterMeasurement": "Measurement",
+  "filterBeds": "Beds",
+  "filterBathroom": "Bathroom",
+  "filterAmenities": "Amenities",
+  "filterFurnished": "Furnished",
+  "filterReset": "Reset",
+  "filterApply": "Apply",
+  "filterSelectAllAmenities": "Select All",
+  "titleAddProperty": "Add Property",
+  "addPropertyGallery": "Gallery",
+  "addPropertyDetails": "Property Details",
+  "inquiryDetails": "Inquiry Details",
+  "addPropertyValue": "Property Value",
+  "addPropertyFacilities": "Facilities",
+  "add": "ADD",
+  "myAccount": "My Account",
+  "logout": "Logout",
+  "notification": "Notification",
+  "security": "Security",
+  "appearance": "Appearance",
+  "help": "Help",
+  "shareApp": "Share App",
+  "privacyPolicy": "Privacy Policy",
+  "dialogLogoutSure": "Are you sure to logout",
+  "dialogLogout": "Logout?",
+  "editProfile": "Edit Profile",
+  "profile": "My Profile",
+  "brokerId": "Broker ID",
+  "associationId": "Association ID",
+  "firstName": "First Name*",
+  "firstNameHint": "Enter first name",
+  "lastName": "Last Name*",
+  "lastNameHint": "Enter last name",
+  "emailHint": "Enter email",
+  "gender": "Gender",
+  "dateOfBirth": "Date of birth*",
+  "save": "Save",
+  "generalNotification": "General notification",
+  "vibrateMode": "Vibrate mode",
+  "sound": "Sound",
+  "specialOffers": "Special offers",
+  "appUpdates": "App updates",
+  "newServiceAvailable": "New service available",
+  "newTipsAvailable": "New tips available",
+  "changePassword": "change password",
+  "faceId": "Face ID",
+  "touchId": "Touch ID",
+  "darkMode": "Dark mode",
+  "blurBackground": "Blur background",
+  "fullScreenMode": "Full screen mode",
+  "faqs": "FAQ’s",
+  "contactUs": "Contact us",
+  "termsCondition": "Terms & Conditions",
+  "aboutUs": "About us",
+  "connectWithUs": "Connect with us",
+  "customerService": "Customer service",
+  "website": "Website",
+  "whatsApp": "WhatsApp",
+  "faceBook": "Facebook",
+  "twitter": "Twitter",
+  "instagram": "Instagram",
+  "sendingMethods": "SENDING METHODS",
+  "textMessage": "Text message",
+  "sendingMethodEmail": "E-mail",
+  "shareTo": "SHARE TO",
+  "copyLink": "Copy link",
+  "propertyForBuy": "BUY",
+  "propertyForSell": "SELL",
+  "propertyForRent": "RENT",
+  "propertyTypeShowroom": "Showroom",
+  "propertyTypeBungalow": "Bungalow",
+  "propertyTypeFlat": "Flat",
+  "propertyTypeAgricultureLand": "Agri Land",
+  "propertyTypeOffice": "Office",
+  "propertyTypePlot": "Plot",
+  "lakh": "Lakh",
+  "crore": "Crore",
+  "lac": "Lac",
+  "cr": "Cr",
+  "thousandUnit": "K",
+  "thousand": "Thousand",
+  "amenityItemClubHouse": "Club house",
+  "amenityItemLibrary": "Library",
+  "amenityItemGazebo": "Gazebo",
+  "amenityItemPlayArea": "Children play area",
+  "amenityItemSwimmingPool": "Swimming pool",
+  "amenityItemTheater": "Theater",
+  "amenityItemGarden": "Garden",
+  "amenityItemGym": "Gym",
+  "amenityItemTemple": "Temple",
+  "amenityItemCommunityHall": "Community Hall",
+  "messurement": "Measurement",
+  "recentFilters": "Recent Filters",
+  "priceRangeFilter": "Price Range (INR)",
+  "furnishItemFurnished": "Furnished",
+  "furnishItemSemiFurnished": "Semi-Furnished",
+  "furnishItemUnfurnished": "Unfurnished",
+  "searchFilter": "Search filters",
+  "resetFilter": "Reset",
+  "applyFilter": "Apply",
+  "verifiedProperty": "Verified",
+  "settings": "Settings",
+  "settingTitleGeneralNotification": "General notification",
+  "settingTitleVibrateMode": "Vibrate mode",
+  "helpOptionFaq": "FAQ’s",
+  "helpOptionPrivacyPolicy": "Privacy Policy",
+  "helpOptionTermsCondition": "Terms & Conditions",
+  "helpOptionAboutUs": "About us",
+  "helpFollowUs": "Follow us on",
+  "titleFaq": "FAQ’s",
+  "searchFaq": "Search",
+  "homeProperties": "My Properties",
+  "homeInquiries": "My Inquiries",
+  "homeSharedByBrooonProperty": "Brooon Properties",
+  "homeSharedByBrooonInquiry": "Brooon Inquiries",
+  "homeNearBy": "Nearby",
+  "homeRecent": "Recently Added",
+  "homeViewAll": "View All",
+  "homeSearchHint": "Search PR/IN",
+  "drawerItemDashboard": "Dashboard",
+  "drawerItemProperties": "Properties",
+  "drawerItemInquiries": "Inquiries",
+  "drawerItemAddProperty": "Add Property",
+  "drawerItemBuyers": "Buyers",
+  "drawerItemSellers": "Sellers",
+  "drawerItemReminder": "Reminder",
+  "drawerItemClosedDeals": "Closed Deals",
+  "drawerItemInActives": "Inactive PR/IN",
+  "drawerItemOther": "Miscellaneous",
+  "drawerItemSettings": "Settings",
+  "drawerItemLegalAdvisory": "Legal Advisory",
+  "drawerItemUnitConverter": "Unit Converter",
+  "drawerItemBackup": "Backup",
+  "drawerItemHelp": "Help",
+  "drawerItemFeedback": "Feedback",
+  "drawerItemLogout": "Logout",
+  "drawerItemUnmatched": "Unmatched",
+  "drawerItemFavorite": "Favorite",
+  "selectGender": "Choose gender",
+  "genderMale": "Male",
+  "genderFemale": "Female",
+  "genderOther": "Other",
+  "other": "Other",
+  "facilities": "Facilities",
+  "overview": "Overview",
+  "seeAll": "See all",
+  "unknownLocation": "Unknown Area",
+  "unknownPrice": "Price",
+  "all": "All",
+  "lease": "Lease",
+  "rent": "Rent",
+  "sell": "Sell",
+  "buy": "Buy",
+  "purchase": "Purchase",
+  "furnished": "Furnished",
+  "semiFurnished": "Semi-Furnished",
+  "unFurnished": "Unfurnished",
+  "active": "Active",
+  "inActive": "InActive",
+  "sold": "Sold",
+  "bought": "Bought",
+  "unSold": "UnSold",
+  "feet": "feet",
+  "sqft": "Sq Feet",
+  "yd": "Sq Yard",
+  "acre": "Acre",
+  "bigha": "Bigha",
+  "guntha": "Guntha",
+  "sqmt": "Sq Meter",
+  "hectare": "Hectare",
+  "sqftShortName": "Sq Ft",
+  "ydShortName": "Sq Yd",
+  "acreShortName": "Acre",
+  "bighaShortName": "Bigha",
+  "gunthaShortName": "Guntha",
+  "sqmtShortName": "Sq Mt",
+  "hectareShortName": "Hect",
+  "call": "Call",
+  "share": "Share",
+  "edit": "Edit",
+  "step": "Step",
+  "basicDetails": "Basic Details",
+  "propertyName": "Property Name",
+  "enterName": "Enter name",
+  "propertyType": "Property Type",
+  "select": "Select",
+  "propertyFor": "Property for",
+  "furnishedStatus": "Furnished Status",
+  "location": "Location",
+  "publicLocation": "Public Location",
+  "selectLocation": "Select location",
+  "rooms": "Rooms",
+  "enterRooms": "Enter rooms",
+  "bathRooms": "Bathrooms",
+  "enterBathRooms": "Enter bathrooms",
+  "floors": "Floor #",
+  "enterFloors": "Enter floor",
+  "totalFloors": "Total Floors",
+  "enterTotalFloors": "Enter total floors",
+  "amenities": "Amenities",
+  "searchAmenities": "Search amenities",
+  "preferredCast": "Preferred Community",
+  "tags": "Tags",
+  "tagsHint": "Tag will generate by adding comma (,)",
+  "cancel": "Cancel",
+  "back": "Back",
+  "next": "Next",
+  "submit": "Submit",
+  "ownerDetails": "Seller",
+  "ownerName": "Owner Name",
+  "phone": "Mobile number",
+  "enterPhone": "Enter number",
+  "enterSellerPhone": "Enter seller mobile",
+  "enterSellerName": "Enter seller name",
+  "email": "Email",
+  "enterMail": "Enter mail",
+  "chainOfBrokers": "Chain of Brokers",
+  "chainOfBrokersHint": "Enter chain of brokers",
+  "ownerComments": "Comments",
+  "ownerCommentsHints": "add notes",
+  "allowExchange": "Interested in Property Exchange",
+  "done": "Done",
+  "searchCast": "Search caste",
+  "priceDetails": "Price Details",
+  "totalPrice": "Price",
+  "priceRange": "Price Range",
+  "minMaxError": "Maximum price should not be less than minimum price",
+  "totalSize": "Size",
+  "totalSizeUnit": "Total Size Unit",
+  "enterSize": "Enter size",
+  "priceBySize": "Price by Size",
+  "enterPrice": "Enter price",
+  "priceBySizeUnit": "Price by Size Unit",
+  "uploadImages": "Property Images",
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "deleteProfileImage": "Remove",
+  "propertyAddedSuccessfully": "Property added\nsuccessfully!",
+  "propertyUpdatedSuccessfully": "Property updated\nsuccessfully!",
+  "viewProperty": "View Property",
+  "goToDashboard": "Go To Dashboard",
+  "maximum": "Maximum",
+  "imagesAllowed": "images are allowed!",
+  "yes": "Yes",
+  "no": "No",
+  "oneBhk": "1 Bhk",
+  "twoBhk": "2 Bhk",
+  "threeBhk": "3 Bhk",
+  "fourBhk": "4 Bhk",
+  "fiveBhk": "5 Bhk",
+  "fivePlusBhk": "5+ Bhk",
+  "residential": "Residential",
+  "commercial": "Commercial",
+  "industrial": "Industrial",
+  "green": "Green",
+  "free": "Free",
+  "facingType": "Facing",
+  "north": "North",
+  "east": "East",
+  "south": "South",
+  "west": "West",
+  "northEast": "NorthEast",
+  "northWest": "NorthWest",
+  "southEast": "SouthEast",
+  "southWest": "SouthWest",
+  "oldText": "Old",
+  "newText": "New",
+  "ft": "Ft",
+  "ft40": "40 feet",
+  "ft80": "80 feet",
+  "ft100": "100 feet",
+  "ft120": "120 feet",
+  "ft150": "150 feet",
+  "buildingType": "Sub Property Type",
+  "settingTitleNotification": "Notifications",
+  "settingTitlePublicProperties": "Public Properties",
+  "settingTitleRadius": "My Location / Area",
+  "settingTitleUploadWatermark": "Property Watermark",
+  "settingTitleShare": "Whatsapp share settings",
+  "settingTitleBasicDetails": "Basic Details",
+  "settingTitleOtherDetails": "Other Details",
+  "settingTitleOwnerDetails": "Owner Details",
+  "settingTitlePriceDetails": "Price Details",
+  "settingTitleImages": "Images",
+  "settingTitleWatermark": "Watermark",
+  "settingTitleLogo": "My Logo",
+  "settingTitleAppReminder": "App Reminder",
+  "settingTitleCastManagement": "Communities",
+  "castManagement": "Communities",
+  "searchByCaste": "Search community",
+  "btnAddCast": "Add",
+  "btnEditCast": "Edit",
+  "btnCancelCast": "Cancel",
+  "btnDeleteCast": "Delete",
+  "labelCastName": "Community*",
+  "hintCastName": "Enter name",
+  "titleAddCast": "Add Community",
+  "titleEditCast": "Edit Community",
+  "dialogDeleteCastMsg1": "Are you sure you want to delete ",
+  "dialogDeleteCastMsg2": " community?",
+  "noCastWarning1": "No community added yet!",
+  "noCastWarning2": "Click below to add community.",
+  "toolbarSearch": "Search",
+  "profileImageDialogTitle": "Change Profile Picture",
+  "profileSavedMessage": "Profile Saved Successfully!",
+  "profileSavedFail": "Please enter mandatory fields!",
+  "cornerPiece": "Corner Piece",
+  "connectedRoad": "Connected Roads",
+  "lightConnection": "Light Connection?",
+  "wellAvailable": "Well Available?",
+  "scheme": "Scheme",
+  "construction": "Construction",
+  "bhk": "Bhk",
+  "parkingAvailable": "Parking Available?",
+  "liftAvailable": "Lift Available?",
+  "allottedParking": "Allotted Parking?",
+  "washRoomAvailable": "Washroom Available?",
+  "frontSize": "Front Size",
+  "depthSize": "Depth",
+  "completeProfile": "Complete Your Profile",
+  "fromUnitLabel": "From",
+  "toUnitLabel": "To",
+  "selectUnitHint": "Select",
+  "enterUnitHint": "Enter No. of Units",
+  "enterUnitBtnConvert": "Convert",
+  "yourLocationTitle": "Your Location",
+  "chooseLocationTitle": "Choose Location",
+  "confirm": "Confirm",
+  "searchArea": "Search",
+  "savedFilters": "Saved Filters",
+  "viewAllFilters": "View All",
+  "selectFilterAreaUnitHint": "Select",
+  "minFilterAreaUnit": "Min",
+  "maxFilterAreaUnit": "Max",
+  "minPriceRangeHint": "Min",
+  "maxPriceRangeHint": "Max",
+  "total": "Total Price",
+  "constructionTypeOld": "Old",
+  "constructionTypeNew": "New",
+  "delete": "Delete",
+  "dialogDeleteFilterSure": "Are you sure you want to delete this Filter?",
+  "filterProperties": "Property Type",
+  "washroomCountAny": "Any",
+  "washroomCount2": "2",
+  "washroomCount3": "3",
+  "washroomCount4plus": "4+",
+  "enterYourArea": "Enter Your Area",
+  "searchResults": "Search Results",
+  "useMyCurrentLocation": "Use My Location",
+  "filterName": "Filter Name*",
+  "filterNameHint": "Enter filter name",
+  "filterBuyerName": "Buyer Name*",
+  "filterBuyerNameHint": "Enter buyer name",
+  "mobileNo": "Mobile number",
+  "mobileNoHint": "Enter number",
+  "saveFilterTitle": "Save Filter",
+  "saveFilterBtnTitle": "Save",
+  "editFilterTitle": "Edit Saved Filter",
+  "editFilterBtnTitle": "Update",
+  "reminder": "Reminder",
+  "myProperty": "My Properties",
+  "myInquiries": "My Inquiries",
+  "goPremium": "Go Premium",
+  "premiumDesc": "To access these details you need\nsubscribe to our plans.",
+  "subscribe": "Subscribe",
+  "filterResultFound": "Search Results",
+  "resultsFound": "{count} Results found",
+  "@resultsFound": {
+    "placeholders": {
+      "count": {
+        "type": "String",
+        "example": "numbers"
+      }
+    }
+  },
+  "saveFilterForFuture": "Save this filter for future",
+  "savedFilter": "Saved Filter",
+  "updateFilterBtnYes": "Yes",
+  "updateFilterBtnNo": "No",
+  "updateFilterTitle": "Do you want to update\nthis filter for",
+  "dialogDeleteFilterMsg1": "Are you sure you want to delete ",
+  "dialogDeleteFilterMsg2": " filter ?",
+  "btnCancelFilter": "Cancel",
+  "btnDeleteFilter": "Delete",
+  "searchReminderHint": "Search reminder",
+  "reminderDateToday": "Today",
+  "reminderDateYesterday": "Yesterday",
+  "reminderDateTomorrow": "Tomorrow",
+  "reminderForAllDay": "All Days",
+  "addReminder": "Add Reminder",
+  "editReminder": "Edit Reminder",
+  "reminderTitleLabel": "Title*",
+  "reminderTitleHint": "Visit Property",
+  "reminderDescriptionLabel": "Description",
+  "reminderDescriptionHint": "Describe",
+  "reminderAllDaysLabel": "Reminder for All Days",
+  "reminderTimeLabel": "Time*",
+  "reminderTimeHint": "Select time",
+  "reminderDateHint": "Select date",
+  "reminderDateTimeLabel": "Date & Time*",
+  "reminderStartEndDateLabel": "Start Date - End Date*",
+  "reminderPropertyLabel": "Select Property",
+  "reminderPropertyHint": "Select",
+  "reminderCancel": "Cancel",
+  "reminderSave": "Save",
+  "markAsSoldUnSold": "Mark as {value}",
+  "@markAsSoldUnSold": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "example": "Sold"
+      }
+    }
+  },
+  "editProfileDetail": "Edit",
+  "deleteProfileDetail": "Delete",
+  "forText": "for",
+  "editPropertyDetail": "Edit",
+  "copyPropertyDetail": "Copy",
+  "deletePropertyDetail": "Delete",
+  "sharePropertyDetail": "Share",
+  "addVisitorPropertyDetail": "Log Visitor",
+  "propertyDetailsTabPropertyDetail": "Property Details",
+  "propertyDetailsTabOwnerDetail": "Owner Details",
+  "propertyDetailsTabPricing": "Pricing",
+  "reminderDaySunday": "Sun",
+  "reminderDayMonday": "Mon",
+  "reminderDayTuesday": "Tue",
+  "reminderDayWednesday": "Wed",
+  "reminderDayThursday": "Thu",
+  "reminderDayFriday": "Fri",
+  "reminderDaySaturday": "Sat",
+  "dialogDeleteReminderMsg1": "Are you sure you want to delete ",
+  "dialogDeleteReminderMsg2": " reminder ?",
+  "btnCancelReminder": "Cancel",
+  "btnDeleteReminder": "Delete",
+  "unknownText": "unknown",
+  "pricePerUnit": "Price Per {unit}",
+  "@pricePerUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String",
+        "example": "Feet"
+      }
+    }
+  },
+  "titleNotifications": "Notifications",
+  "chooseYourPlan": "Choose Your Plan",
+  "plansAndPricing": "Plans & Pricing",
+  "currentPlanDesc": "Maximize Your Membership: Upgrade Your Plan Today!",
+  "explorePlans": "Explore our different plans and pick the one that aligns with your goals.",
+  "btnPurchaseHistory": "View History",
+  "titlePurchaseHistory": "History",
+  "historyPlan": "History",
+  "currentActivePlan": "Active",
+  "expiredPlan": "Expired",
+  "paymentMode": "Payment mode:",
+  "transactionId": "Transaction ID:",
+  "purchasedOn": "Purchased on:",
+  "startDate": "Start Date:",
+  "endDate": "End Date:",
+  "rented": "Rented",
+  "unRented": "Un Rented",
+  "leased": "Leased",
+  "unLeased": "Un Leased",
+  "areYouSureToMarkSoldUnSold": "Are you sure you want to mark it as {value}?",
+  "@areYouSureToMarkSoldUnSold": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "example": "Sold"
+      }
+    }
+  },
+  "addCustomerDetails": "Add Customer Details",
+  "addCustomerName": "Name*",
+  "addCustomerPhone": "Phone*",
+  "addCustomerNameHint": "Enter Name",
+  "addCustomerPhoneHint": "Enter Phone",
+  "soldCustomerDetails": "Sold to",
+  "relatedProperties": "{count, plural, =0{0 matching property}, =1 {1 matching property} other {{count} matching properties}}",
+  "@relatedProperties": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "propertiesListed": "{count, plural, =0{0 property listed}, =1 {1 property listed} other {{count} properties listed}}",
+  "@propertiesListed": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "filterAlreadyExistsError": "Filter already exists!",
+  "filterSavedMessage": "Filter Saved Successfully!",
+  "failedToLaunchSocial": "Oops! Something went wrong",
+  "searchingForGPS": "Searching for your location, Please check your GPS!",
+  "dialogDeletePropertyMsg1": "Are you sure you want to delete ",
+  "dialogDeletePropertyMsg2": " Property? It will be no longer available.",
+  "dialogDeleteInquiryMsg1": "Are you sure you want to delete ",
+  "dialogDeleteInquiryMsg2": " Inquiry? It will be no longer available.",
+  "failedToDeleteProperty": "Unable to delete this property, Please try again later!",
+  "failedToDeleteInquiry": "Unable to delete this inquiry, Please try again later!",
+  "btnCancelProperty": "Cancel",
+  "btnDeleteProperty": "Delete",
+  "noDataFound": "No Data Found!",
+  "titleUploadWatermark": "Property Watermark",
+  "btnCancelWatermark": "Cancel",
+  "btnSaveWatermark": "Save",
+  "watermarkTypeImage": "Image",
+  "watermarkTypeText": "Text",
+  "watermarkTitleFileUpload": "File Upload*",
+  "watermarkTitleEnterText": "Text*",
+  "watermarkTitleWatermarkPreview": "Watermark Preview",
+  "watermarkImageWarning": "*Upload only .png or .jpg format",
+  "watermarkTextWarning": "*Character length 4-6",
+  "radiusReset": "Reset",
+  "radiusApply": "Apply",
+  "radiusKiloMeter": "km",
+  "titleRestoreBackup": "Restore Backup",
+  "titleBackupFound": "Backup Found",
+  "btnRestoreBackup": "Restore",
+  "btnSkipBackup": "Skip",
+  "descriptionBackupFound": "Backup your data to Google Drive. You can restore them when you reinstall Brooon.",
+  "googleDrive": "Google Drive",
+  "restoreBackupFound": "Your data can be restored from {email}. If you don't restore now, you won’t be able to recover later.",
+  "@restoreBackupFound": {
+    "placeholders": {
+      "email": {
+        "type": "String",
+        "example": "abc@gmail.com"
+      }
+    }
+  },
+  "restoreBackupSize": "Size : {size}",
+  "@restoreBackupSize": {
+    "placeholders": {
+      "size": {
+        "type": "String",
+        "example": "100 MB"
+      }
+    }
+  },
+  "titleBackup": "Backup",
+  "titleBackupSettings": "Drive Backup Settings",
+  "titleBackupAccount": "Account : ",
+  "titleAccountForBackup": "Account for Backup",
+  "btnBackup": "Backup",
+  "backupSize": "Size : {size}",
+  "@backupSize": {
+    "placeholders": {
+      "size": {
+        "type": "String",
+        "example": "100 MB"
+      }
+    }
+  },
+  "lastBackupDate": "Last Backup : {date}",
+  "@lastBackupDate": {
+    "placeholders": {
+      "date": {
+        "type": "String",
+        "example": "22 Jun 2023, 11:22 AM"
+      }
+    }
+  },
+  "preparingBackup": "Preparing backup...",
+  "backupUploadingStatus": "Uploading : {uploadedSize} of {totalSize}",
+  "@backupUploadingStatus": {
+    "placeholders": {
+      "uploadedSize": {
+        "type": "String",
+        "example": "6.5 MB"
+      },
+      "totalSize": {
+        "type": "String",
+        "example": "50 MB"
+      }
+    }
+  },
+  "backupDownloadingStatus": "Downloading : {downloadedSize} of {totalSize}",
+  "@backupDownloadingStatus": {
+    "placeholders": {
+      "downloadedSize": {
+        "type": "String",
+        "example": "6.5 MB"
+      },
+      "totalSize": {
+        "type": "String",
+        "example": "50 MB"
+      }
+    }
+  },
+  "filterNameAlreadyTaken": "*Filter name is already taken!",
+  "watermarkMustBePng": "File must have .png or .jpg format.",
+  "castNameAlreadyTaken": "*Community name is already taken!",
+  "editProperty": "Edit Property",
+  "noPhoneFound": "No Phone Found!",
+  "directChain": "Direct",
+  "selectAllText": "Select All",
+  "invalidPhoneNo": "The provided phone number is not valid. Please check number.",
+  "unableToLogin": "Unable to Login with this credentials, Please try again later.",
+  "otpSentToMobile": "Otp sent to your mobile number: {mobile}",
+  "@otpSentToMobile": {
+    "placeholders": {
+      "mobile": {
+        "type": "String",
+        "example": "+91 99999 99999"
+      }
+    }
+  },
+  "filterSearchByTextHint": "Search by text",
+  "tokenExpired": "Your session token has expired or is no longer active, Please login again!",
+  "tokenExpiredReLogin": "Login",
+  "backupInvalidAuthMessage": "Backup process interrupted, Please verify your account",
+  "restoreInvalidAuthMessage": "Restore process interrupted, Please verify your account",
+  "privacyBreakMessage": "We found some unexpected privacy issue. Please check your current date and time and login again!",
+  "privacyBreakLogin": "Login",
+  "noInternetSnackBarMessage": "No Internet connection. Make sure that Wi-Fi or mobile data is turned on, then try again.",
+  "rupeeText": "Rs.",
+  "shareOptionOnlyText": "Text",
+  "shareOptionOnlyImage": "Only image",
+  "shareOptionPDF": "Text and Image",
+  "shareOptionOnlyTextPDF": "PDF",
+  "enableShareSettingWarning": "Enable Share from settings",
+  "enableShareSettingAction": "Enable",
+  "defaultCommunitySeniorCitizen": "Senior Citizen",
+  "defaultCommunityArmyMens": "Army Mens",
+  "defaultCommunityGovernmentServants": "Government Servants",
+  "defaultCommunityDoctors": "Doctors",
+  "defaultCommunitySpecialAbilities": "Special Abilities",
+  "shareFailedMessage": "Sorry, currently we are unable to share details!",
+  "notificationDateToday": "Today",
+  "reminderPastTimeNotAllowed": "Please set reminder for future date & time!",
+  "noMapAppFound": "Unable to open map",
+  "noSubscriptionPlans": "No active plans found, Please try again later!",
+  "noInternet": "No Internet connection. \n\nMake sure that Wi-Fi or mobile data is turned on, then try again.",
+  "retry": "Retry",
+  "somethingWentWrong": "Something went wrong, Please try again later",
+  "subscriptionExpired": "Your {subscription} has been expired. To keep using service without interruption, subscribe plan now!",
+  "@subscriptionExpired": {
+    "placeholders": {
+      "subscription": {
+        "type": "String",
+        "example": "Gold Plan"
+      }
+    }
+  },
+  "subscription": "Subscription",
+  "subscribeNow": "Subscribe",
+  "subscriptionFreeDuration": " First {duration} Free",
+  "@subscriptionFreeDuration": {
+    "placeholders": {
+      "duration": {
+        "type": "String",
+        "example": "3 months"
+      }
+    }
+  },
+  "subscriptionPriceDuration": " / {duration}",
+  "@subscriptionPriceDuration": {
+    "placeholders": {
+      "duration": {
+        "type": "String",
+        "example": "3 months"
+      }
+    }
+  },
+  "subscribeNowWithPrice": "Subscribe Now - {price}",
+  "@subscribeNowWithPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String",
+        "example": "₹3000"
+      }
+    }
+  },
+  "upgradeToPremium": "Upgrade to Premium",
+  "currentPlan": "Current Plan",
+  "previousPlan": "Previous Plan(s)",
+  "upgradePlan": "Upgrade Plan",
+  "upgradePlanNow": "Upgrade Now - {price}",
+  "@upgradePlanNow": {
+    "placeholders": {
+      "price": {
+        "type": "String",
+        "example": "₹3000"
+      }
+    }
+  },
+  "addBuyer": "Add Inquiry",
+  "editBuyer": "Edit Inquiry",
+  "propertyListedBtnText": "{count, plural, =0{Property}, =1 {Property} other {Properties}}",
+  "@propertyListedBtnText": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "matchingInquiryBtnText": "{count, plural, =0{Matching Inquiry}, =1 {Matching Inquiry} other {Matching Inquiries}}",
+  "@matchingInquiryBtnText": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "inquiryListedBtnText": "{count, plural, =0{Inquiry}, =1 {Inquiry} other {Inquiries}}",
+  "@inquiryListedBtnText": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "matchingPropertyBtnText": "{count, plural, =0{Matching Property}, =1 {Matching Property} other {Matching Properties}}",
+  "@matchingPropertyBtnText": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "sharingOptionInquiryBasicDetailsSubtitle": "Size, Price, Location",
+  "sharingOptionInquiryBuyerDetailsSubtitle": "Buyer Name, Buyer Mobile",
+  "sharingOptionInquiryPriceDetailsSubtitle": "Price Range & Price by Size",
+  "sharingOptionBasicDetailsSubtitle": "Size, Price, Location",
+  "sharingOptionOtherDetailsSubtitle": "Other misc details",
+  "sharingOptionSellerDetailsSubtitle": "Seller Name, Seller Mobile & Chain of Brokers",
+  "sharingOptionPriceDetailsSubtitle": "Price Range & Price by Size",
+  "sharingOptionImagesSubtitle": "Property Images",
+  "sharingOptionWatermarkSubtitle": "Uploaded Images shared with Watermark.",
+  "sharingOptionDialogTitle": "Share Details",
+  "sharingOptionDialogSubtitle": "Please select the details you would like to share on social media",
+  "settingTitleAmenityManagement": "Amenities",
+  "amenitiesManagement": "Amenities",
+  "searchByAmenity": "Search amenities",
+  "btnAddAmenity": "Add",
+  "btnEditAmenity": "Edit",
+  "btnCancelAmenity": "Cancel",
+  "btnDeleteAmenity": "Delete",
+  "labelAmenityName": "Amenities Name*",
+  "hintAmenityName": "e.g. Solar System",
+  "titleAddAmenity": "Add Amenities",
+  "titleEditAmenity": "Edit Amenities",
+  "dialogDeleteAmenityMsg1": "Are you sure you want to delete ",
+  "dialogDeleteAmenityMsg2": " amenity?",
+  "noAmenityWarning1": "No amenities added yet!",
+  "noAmenityWarning2": "Click below to add amenities.",
+  "amenityNameAlreadyTaken": "*Amenity name is already taken!",
+  "closeDealDialogDealForTitle": "Deal For*",
+  "closeDealDialogBuyerName": "Buyer Name*",
+  "closeDealDialogBuyerMobile": "Buyer Mobile",
+  "closeDealDialogNotes": "Notes",
+  "closeDealDialogNotesHint": "Enter Notes",
+  "closeInquiryDialogDealForTitle": "Deal For*",
+  "closeInquiryDialogSellerName": "Seller Name*",
+  "closeInquiryDialogSellerMobile": "Seller Mobile",
+  "closeDealDialogBtnSubmit": "Save",
+  "closeDealDialogBtnCancel": "Cancel",
+  "closeDealDialogTitle": "Close Deal",
+  "closeInquiryDialogTitle": "Close Inquiry",
+  "closeDealDialogNameHint": "Enter Name",
+  "closeDealDialogPhoneHint": "Enter Phone",
+  "dealConfirmationDialogTitle": "Deal Confirmation",
+  "dealConfirmationDialogBtnYes": "Yes",
+  "dealConfirmationDialogBtnNo": "No",
+  "dealConfirmationDialogMessage": "Are you sure to mark\nthis property as a {dealType}?",
+  "@dealConfirmationDialogMessage": {
+    "placeholders": {
+      "dealType": {
+        "type": "String",
+        "example": "Rented"
+      }
+    }
+  },
+  "closeInquiryConfirmationDialogMessage": "Are you sure to mark\nthis inquiry as a {dealType}?",
+  "@closeInquiryConfirmationDialogMessage": {
+    "placeholders": {
+      "dealType": {
+        "type": "String",
+        "example": "Rented"
+      }
+    }
+  },
+  "propertyAddedAt": "{dateTime}",
+  "@propertyAddedAt": {
+    "placeholders": {
+      "dateTime": {
+        "type": "String",
+        "example": "22 Jun 23, 11:00 AM"
+      }
+    }
+  },
+  "propertyForValue": "For {value}",
+  "@propertyForValue": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "example": "Sell"
+      }
+    }
+  },
+  "propertyAvailableFor": "Also available for {value}",
+  "@propertyAvailableFor": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "example": "Sell"
+      }
+    }
+  },
+  "inquiryAvailableFor": "Also looking for {value}",
+  "@inquiryAvailableFor": {
+    "placeholders": {
+      "value": {
+        "type": "String",
+        "example": "Buy"
+      }
+    }
+  },
+  "inquiryDetailTitleSellerDetails": "Seller details",
+  "propertyDetailTitleBuyerDetails": "Buyer details",
+  "propertyDetailTitleBrooonDetails": "Brooon Details",
+  "propertyDetailCallNow": "Call Now",
+  "propertyDetailDirection": "Directions",
+  "propertyDetailTitlePropertyFeatures": "Property Features",
+  "inquiryDetailTitleInquiryFeatures": "Property Features",
+  "propertyDetailTitleOtherDetails": "Other Details",
+  "sellerName": "Seller Name",
+  "sellerMobile": "Seller Mobile",
+  "brooonName": "Brooon Name",
+  "brooonMobile": "Brooon Mobile",
+  "sellerEmail": "Seller Email",
+  "propertyNote": "Special Notes",
+  "visitorTitle": " People visited this property.",
+  "forBuy": "For Buy",
+  "forSell": "For Sell",
+  "forLease": "For Lease",
+  "forRent": "For Rent",
+  "propertyDetailsCloseDealBtn": "Close Deal",
+  "inquiryDetailsCloseDealBtn": "Close Inquiry",
+  "additionalFurnishing": "Additional Furnishing",
+  "balcony": "Balcony",
+  "propertyVisibilityPrivateTitle": "Private",
+  "propertyVisibilityPrivateSubtitle": "Only you can view this property.",
+  "propertyVisibilityPublicTitle": "Public",
+  "propertyVisibilityPublicSubtitle": "Other brokers can view limited details in shared by brooon.",
+  "switchToMapView": "Switch to Map View",
+  "switchToListView": "Switch to List View",
+  "buyerAddedSuccess": "Inquiry added successfully!",
+  "buyerUpdatedSuccess": "Inquiry updated successfully!",
+  "propertiesFound": "{count, plural, =0{0 Matching Property Found}, =1 {1 Matching Property Found} other {{count} Matching Properties Found}}",
+  "@propertiesFound": {
+    "placeholders": {
+      "count": {
+        "type": "int",
+        "example": "20"
+      }
+    }
+  },
+  "showResult": "Show Results",
+  "radiusInfo": "By adjusting the radius on the map, you can see all the nearby Properties within a specific distance.",
+  "addVisitorDetails": "Add Visitor Details",
+  "visitorName": "Visitor Name",
+  "visitorMobile": "Visitor Mobile",
+  "visitors": "Visitors",
+  "cancelVisitor": "Cancel",
+  "addVisitor": "Add",
+  "visitorAdded": "Visitor added successfully",
+  "propertyFilters": "Basic Details",
+  "messageVisibilityChangeDialog": "Are you sure you want to mark this property as {visibility}?",
+  "@messageVisibilityChangeDialog": {
+    "placeholders": {
+      "visibility": {
+        "type": "String",
+        "example": "Public/Private"
+      }
+    }
+  },
+  "messageInquiryVisibilityChangeDialog": "Are you sure you want to mark this inquiry as {visibility}?",
+  "@messageInquiryVisibilityChangeDialog": {
+    "placeholders": {
+      "visibility": {
+        "type": "String",
+        "example": "Public/Private"
+      }
+    }
+  },
+  "buyerName": "Buyer Name",
+  "buyerMobile": "Buyer Mobile",
+  "gasConnection": "Gas Connection",
+  "fridge": "Fridge",
+  "sofa": "Sofa",
+  "ac": "AC",
+  "diningTable": "Dinning Table",
+  "fans": "Fans",
+  "sureToDiscard": "Are you sure\nyou want to Discard?",
+  "yesSure": "Yes, Sure",
+  "propertyFeatures": "Property Features",
+  "inquiryFeatures": "Inquiries",
+  "otherDetails": "Other Details",
+  "addBathRooms": "Add bathrooms",
+  "selectBhk": "BHKs",
+  "frontDepth": "Front / Depth",
+  "filterPropertySearch": "Search*",
+  "properties": "Properties",
+  "inquires": "Inquiries",
+  "filterPropertyFor": "Property For",
+  "furnishStatus": "Furnish Status",
+  "propertyMarkAsVisibility": "Property Mark as",
+  "minSellPriceTag": "MinSellPriceTag",
+  "maxSellPriceTag": "MaxSellPriceTag",
+  "minRentPriceTag": "MinRentPriceTag",
+  "maxRentPriceTag": "MaxRentPriceTag",
+  "minLeasePriceTag": "MinLeasePriceTag",
+  "maxLeasePriceTag": "MaxLeasePriceTag",
+  "minSellPriceUnitIdTag": "MinSellPriceUnitIdTag",
+  "maxSellPriceUnitIdTag": "MaxSellPriceUnitIdTag",
+  "minRentPriceUnitIdTag": "MinRentPriceUnitIdTag",
+  "maxRentPriceUnitIdTag": "MaxRentPriceUnitIdTag",
+  "minLeasePriceUnitIdTag": "MinLeasePriceUnitIdTag",
+  "maxLeasePriceUnitIdTag": "MaxLeasePriceUnitIdTag",
+  "sellPriceBySizeTag": "Sell Price by Size",
+  "rentPriceBySizeTag": "Rent Price by Size",
+  "leasePriceBySizeTag": "Lease Price by Size",
+  "priceText": "Price",
+  "bySizeText": "By Size",
+  "sellPricePerUnit": "Sell Price Per {unit}",
+  "@sellPricePerUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String",
+        "example": "Feet"
+      }
+    }
+  },
+  "buyPricePerUnit": "Buy Price Per {unit}",
+  "@buyPricePerUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String",
+        "example": "Feet"
+      }
+    }
+  },
+  "rentPricePerUnit": "Rent Price Per {unit}",
+  "@rentPricePerUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String",
+        "example": "Feet"
+      }
+    }
+  },
+  "leasePricePerUnit": "Lease Price Per {unit}",
+  "@leasePricePerUnit": {
+    "placeholders": {
+      "unit": {
+        "type": "String",
+        "example": "Feet"
+      }
+    }
+  },
+  "selectAnyPropertyType": "Please select property type",
+  "filterIncludeInactiveProperty": "Show Inactive properties",
+  "filterIncludeClosedProperty": "Show Closed deals",
+  "propertyStatus": "Property Status",
+  "enter": "Enter",
+  "noReminderEventFound": "No Events Found!",
+  "addressLandmark": "Address / Landmark",
+  "publicAddressLandmark": "Public Address / Landmark",
+  "enterAddress": "Type or Select Map >>",
+  "hintArea": "Area",
+  "unableToLaunchPayment": "Something went wrong! Please connect with support team.",
+  "buyerInfo": "Buyer",
+  "saveAsBuyer": "Add Inquiry",
+  "saveAsFilter": "Save Filter",
+  "propertyAddedSuccessfullyToast": "Property added successfully!",
+  "propertyUpdatedSuccessfullyToast": "Property updated successfully!",
+  "sharedByBrooonPropertyNoInternet": "You're offline. Please check your internet connection to see properties here.",
+  "sharedByBrooonInquiryNoInternet": "You're offline. Please check your internet connection to see inquiries here.",
+  "viewAllSavedFilters": "Saved Filters",
+  "chooseBackupAccount": "Choose Account For Backup",
+  "selectedChosenAccount": "Account",
+  "allowNegotiation": "Negotiable",
+  "feedbackMessageLabel": "Message",
+  "feedbackSubmit": "Submit",
+  "feedbackSuccess": "We received your feedback, Thank you!",
+  "feedbackFailed": "Something went wrong, Please try again later",
+  "versioning": "v{version}",
+  "@versioning": {
+    "placeholders": {
+      "version": {
+        "type": "String",
+        "example": "1.0.0"
+      }
+    }
+  },
+  "privateLocationText": "Private Location",
+  "publicLocationText": "Public Location",
+  "newUpdateAvailable": "New update available",
+  "updateNow": "Update Now",
+  "sharePublicPropertyDialogTitle": "Public Property Details",
+  "sharePublicPropertyDialogSubTitle": "Other brokers can view below details in shared by brooon",
+  "sharePublicPropertyBasicDetails": "Property Type, Property For, Public Location, Size",
+  "sharePublicPropertyPriceDetails": "Price Range & Price by Size",
+  "sharePublicPropertyOtherDetails": "Property features, Preferred Communities, Exchange Detail, Broker Chain, Tags",
+  "yourDetails": "Your Profile Details",
+  "sharePublicPropertyYourDetails": "Name, Mobile, Profile Picture",
+  "sellerDetails": "Seller Details",
+  "sharePublicPropertySellerDetails": "Seller Name, Seller Mobile",
+  "privateDetails": "Private Details",
+  "sharePublicPropertyPrivateDetails": "Property Images, Private Location",
+  "markAsPublic": "Mark as Public",
+  "reportPublicProperty": "Report",
+  "reportPublicPropertySubTitle": "Please select a Problem",
+  "report1": "False Information",
+  "report2": "Spam",
+  "report3": "Violence",
+  "report4": "Gross content",
+  "report5": "Their profile info and/or images include abusive or hateful content",
+  "report6": "Something else",
+  "reportSuccess": "We received your feedback, Thank you!",
+  "settingTitleConfigOptions": "Config Options",
+  "settingTitleNearByDistance": "Nearby Distance",
+  "settingTitleMySearchDistance": "My Search Distance",
+  "settingTitleBrooonSearchDistance": "Brooon Search Distance",
+  "settingTitleBlockedBroooner": "Blocked User",
+  "settingDistanceHint": "in kilometer",
+  "blockBrooon": "Block Brooon",
+  "propertyTabShortTerm": "PR",
+  "inquiryTabShortTerm": "IN",
+  "viewAllProperties": "View All Properties",
+  "viewAllInquiries": "View All Inquiries",
+  "viewAllBuyerInquiries": "{name} - Inquiries",
+  "@viewAllBuyerInquiries": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "viewAllBuyerMatchingProperties": "{name} - Matching Properties",
+  "@viewAllBuyerMatchingProperties": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "viewAllSellerProperties": "{name} - Properties",
+  "@viewAllSellerProperties": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "viewAllSellerMatchingInquiries": "{name} - Matching Inquiries",
+  "@viewAllSellerMatchingInquiries": {
+    "placeholders": {
+      "name": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "privateLocationHint": "Private",
+  "publicLocationHint": "Public",
+  "budget": "Budget",
+  "unblock": "Unblock",
+  "unblockSuccessMessage": "{brooonName} has been unblocked!",
+  "@unblockSuccessMessage": {
+    "placeholders": {
+      "brooonName": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "blockedBrooonerTitle": "Blocked User",
+  "unblockDialogBtnYes": "Yes",
+  "unblockDialogBtnNo": "No",
+  "blockBrokerDialogTitle": "Are you sure you want to block this broooner? You will not get properties & inquiries of blocked broooner.",
+  "unblockBrokerDialogTitle": "Are you sure you want to unblock {brooonName}?",
+  "@unblockBrokerDialogTitle": {
+    "placeholders": {
+      "brooonName": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "upTo": "up to {distance} km",
+  "@upTo": {
+    "placeholders": {
+      "distance": {
+        "type": "int",
+        "example": "1"
+      }
+    }
+  },
+  "noNearByItems": "No Nearby Properties or Inquiries found!",
+  "pdfSharedByText": "Shared by {userName} on {date}, Contact # {phone}",
+  "@pdfSharedByText": {
+    "placeholders": {
+      "userName": {
+        "type": "String",
+        "example": "Name"
+      },
+      "date": {
+        "type": "String",
+        "example": "date"
+      },
+      "phone": {
+        "type": "String",
+        "example": "phone"
+      }
+    }
+  },
+  "dialogMsgUnmatchProperty": "Are you sure you want to mark this property as unmatch?",
+  "dialogMsgUnmatchInquiry": "Are you sure you want to mark this inquiry as unmatch?",
+  "dialogMsgMatchProperty": "Are you sure you want to consider this property as match?",
+  "dialogMsgMatchInquiry": "Are you sure you want to consider this inquiry as match?",
+  "dialogBtnUnmatch": "Unmatch",
+  "dialogBtnMatch": "Yes",
+  "dialogBtnCancel": "Cancel",
+  "closingDetails": "Closing Details",
+  "unknownMobileNo": "Mobile",
+  "details": "Details",
+  "selectProperty": "Select Property",
+  "selectInquiry": "Select Inquiry",
+  "matchingsProperty": "Matching Properties",
+  "matchingsInquiry": "Matching Inquiries",
+  "makeUnfavorite": "Unfavorite",
+  "makeFavorite": "Favorite",
+  "memberOfAssociation": "Member of {associationName}",
+  "@memberOfAssociation": {
+    "placeholders": {
+      "associationName": {
+        "type": "String",
+        "example": "Name"
+      }
+    }
+  },
+  "verifyPlan": "Verify Payment",
+  "paymentExpired": "Payment is expired already. Please check with support person for any query"
+}

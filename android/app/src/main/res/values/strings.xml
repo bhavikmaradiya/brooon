@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Brooon</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGVzdHd0c20iLCJhIjoiY2xkOXRmb3pkMGFxdjNubnpzN245b3ptdSJ9.JtnsWQHqqwAlI_YfpAXXFQ</string>
+</resources>

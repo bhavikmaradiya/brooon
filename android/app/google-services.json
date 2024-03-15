@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "116336198730",
+    "project_id": "brooon-8cba6",
+    "storage_bucket": "brooon-8cba6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116336198730:android:2bb65fbe8b4262655492b3",
+        "android_client_info": {
+          "package_name": "com.brooon.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116336198730-dj99l570idngtssuoa34sjd7enac4705.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brooon.app",
+            "certificate_hash": "28be9a61dd322ac56d6aced5ed4d5e87dd38cd8c"
+          }
+        },
+        {
+          "client_id": "116336198730-kbmtebk1mhbp32htn0l0j2ket7d4u1jc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brooon.app",
+            "certificate_hash": "026fd9ab2882381aacd35a569364bc9fe6a88182"
+          }
+        },
+        {
+          "client_id": "116336198730-mhgbuo8n5ms5eacnltf0dk7jhims1lau.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brooon.app",
+            "certificate_hash": "c88e73140f51ee4ad6675cf829d89165157e838f"
+          }
+        },
+        {
+          "client_id": "116336198730-p5mmh2k5jj5os5122pm9f7ofh25sdd6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brooon.app",
+            "certificate_hash": "ad81fc2a1cce0ec49689b9ce34530eb2f12d9273"
+          }
+        },
+        {
+          "client_id": "116336198730-7akdco7e4hqkhlaurtiv73o36tpg4pne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRZjlPygkKCcNg1_sMSoPEovHsZZcEAZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116336198730-7akdco7e4hqkhlaurtiv73o36tpg4pne.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "116336198730-opshbccng2vapv3bg4na8epl5bt6fqpn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brooon.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
